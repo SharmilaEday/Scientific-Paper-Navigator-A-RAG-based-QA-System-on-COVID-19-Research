@@ -1,0 +1,6 @@
+rag_cord19_project/
+├── app.py
+├── cord19_chunks_with_metadata.csv
+├── faiss_cord19.index
+├── requirements.txt
+└── README.md
